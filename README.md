@@ -6,7 +6,7 @@
 
 - 🌱 **2nd year B.Sc Computer Science student at Holon's Institute of Technology + Full-Stack student at codecademy.com**
 
-- 📫 How to reach me **lambodol76@gmail.com**
+- 📫 How to reach me: Email: **lambodol76@gmail.com** Linkedin: **https://www.linkedin.com/in/daniel-podolsky-341901242/**
 
 - ⚡ Fun fact I'm **really passionate about basketball and the NBA.**
 

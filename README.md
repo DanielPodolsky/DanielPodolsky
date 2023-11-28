@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **lambodol76@gmail.com**
 
-- ⚡ Fun fact **Really passionate about basketball and the NBA.**
+- ⚡ Fun fact I'm **really passionate about basketball and the NBA.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

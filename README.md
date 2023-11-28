@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lambodol76" alt="lambodol76" /></a> </p>
 
-- 🌱 I’m currently learning **2nd year B.Sc Computer Science at Holon's Institute of Technology + Fullstack student at codecademy.com**
+- 🌱 **2nd year B.Sc Computer Science student at Holon's Institute of Technology + Full-Stack student at codecademy.com**
 
 - 📫 How to reach me **lambodol76@gmail.com**
 

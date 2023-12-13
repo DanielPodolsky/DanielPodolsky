@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Podolsky</h1>
 <h3 align="center">A passionate Computer Science student from Israel</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lambodol76" alt="lambodol76" /></a> </p>
-
 - 🌱 **2nd year B.Sc Computer Science student at Holon's Institute of Technology + Full-Stack student at codecademy.com**
 
 - 📫 How to reach me: **lambodol76@gmail.com**

@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=3840"/></p>
 <h1 align="center">Hi 👋, I'm Daniel Podolsky</h1>
-<h3 align="center">A passionate Computer Science student from Israel</h3>
+<h3 align="center">A devoted Computer Science student from Israel</h3>
 
 - 🌱 **2nd year B.Sc Computer Science student at Holon's Institute of Technology + Full-Stack student at codecademy.com**
 

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Podolsky</h1>
 <h3 align="center">A devoted Computer Science student from Israel</h3>
 
-- 🌱 **2nd year B.Sc Computer Science student at Holon's Institute of Technology + Full-Stack student at codecademy.com**
+- 🌱 **3rd year B.Sc Computer Science student at Holon's Institute of Technology + Full-Stack student at codecademy.com**
 
 - 📫 How to reach me: **danielpodolskywork@gmail.com**
 

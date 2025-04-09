@@ -1,9 +1,9 @@
 <p align="center"><img src="https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=3840"/></p>
 
 # 👋 About Me:
-A 24-year-old, third-year B.Sc Computer Science student with a focus on frontend development.
-<br>
-Beyond my coursework, I am studying additional courses independently, constantly expanding my skills and creating engaging web experiences.
+Third-year Computer Science student (graduating 2025) specializing in Frontend Development with React.js, JavaScript (ES6+), and responsive
+UI design. Currently seeking Junior Frontend Developer roles to apply technical skills, grow within a collaborative team, and contribute to
+impactful user-facing products.
 
 
 ## 🌐 Socials:

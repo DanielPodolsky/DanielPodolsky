@@ -52,7 +52,7 @@ Co-developed **[MentorHIT](https://github.com/MentorHIT)** - An AI-powered acade
   
   ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPodolsky&show_icons=true&theme=tokyonight)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPodolsky&layout=compact&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPodolsky&layout=compact&theme=tokyonight&&hide=jupyter%20notebook)
 
 </div>
 

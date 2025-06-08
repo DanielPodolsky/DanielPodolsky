@@ -1,22 +1,76 @@
 <p align="center"><img src="https://i.seadn.io/gae/_YIoKz_EmInCKgtGbJzUSpn8Liz7Mr4UIZN7aCJoCknVKkRDyWJIXe4koNnIMg84DEu4Y-32cNF5OWVnA1RuAZUotmyen_FZAe_O9Q?auto=format&dpr=1&w=3840"/></p>
 
-# 👋 About Me:
-Third-year Computer Science student (graduating 2025) specializing in Frontend Development with React.js, JavaScript (ES6+), and responsive
-UI design. Currently seeking Junior Frontend Developer roles to apply technical skills, grow within a collaborative team, and contribute to
-impactful user-facing products.
+<div align="center"><h1>Hey there! 👋 I'm Daniel Podolsky</h1></div>
 
+<div align="center">
+  
+  ![Computer Science Student](https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge)
+  ![Graduating 2025](https://img.shields.io/badge/Graduating-2025-green?style=for-the-badge)
+  ![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-orange?style=for-the-badge)
+  
+  **Frontend Developer | Computer Science Student @ HIT | 🏆 Hackathon Winner**
+  
+  *Building the bridge between academia and industry through innovative technology*
 
-## 🌐 Socials:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-podolsky-341901242/) 
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DanielPodolsky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DanielPodolsky&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPodolsky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&&hide=jupyter%20notebook)
+## 🚀 About Me
+
+I'm a motivated Computer Science student specializing in **Frontend Development**, currently in my final year at Holon Institute of Technology (HIT).
+
+- 🎓 **B.Sc Computer Science** @ Holon Institute of Technology (GPA: 88)
+- 💻 **Frontend Developer** with React.js, JavaScript, and modern web technologies
+- 🏆 **1st Place Winner** - HIT's Hackathon 2025
+
+Co-developed **[MentorHIT](https://github.com/MentorHIT)** - An AI-powered academic advisor platform that:
+- 🎯 Tackles Israel's junior developer shortage
+- 🤖 Provides intelligent student-job matching
+- 📚 Offers vector-based course recommendations
+- ⚡ Delivers fast, interactive academic support
+- 🔒 Implements secure AWS architecture with advanced data handling
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+  ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPodolsky&show_icons=true&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPodolsky&layout=compact&theme=tokyonight)
+
+</div>
+
+## 🌍 Let's Connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-podolsky-341901242)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lambodol76@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DanielPodolsky&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  
+  **"Building bridges between academic potential and industry innovation"**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=DanielPodolsky&color=blueviolet&style=flat-square)
+
+</div>

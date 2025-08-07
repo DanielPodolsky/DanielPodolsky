@@ -8,7 +8,7 @@
   ![Graduating 2025](https://img.shields.io/badge/Graduating-2025-green?style=for-the-badge)
   ![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-orange?style=for-the-badge)
   
-  **Frontend Developer | Computer Science Student @ HIT | 🏆 Hackathon Winner**
+  **Frontend/Backend Developer | Computer Science Graduate @ HIT | 🏆 Hackathon Winner**
   
   *Building the bridge between academia and industry through innovative technology*
 
@@ -16,9 +16,12 @@
 
 ## 🚀 About Me
 
-I'm a motivated Computer Science student specializing in **Frontend Development**, currently in my final year at Holon Institute of Technology (HIT).
+Computer Science graduate (B.Sc., GPA: 89) developer who delivered an innovative AI-powered platform that won 1st place in a competitive hackathon.
+Skilled in building web applications with React.js, Node.js, and modern development practices.
 
-- 🎓 **B.Sc Computer Science** @ Holon Institute of Technology (GPA: 88)
+Seeking a Frontend/Backend Developer role to leverage technical skills and teamwork abilities to drive innovative web solutions!
+
+- 🎓 **B.Sc Computer Science** @ Holon Institute of Technology (GPA: 89)
 - 💻 **Frontend Developer** with React.js, JavaScript, and modern web technologies
 - 🏆 **1st Place Winner** - HIT's Hackathon 2025
 
@@ -27,7 +30,7 @@ Co-developed **[MentorHIT](https://github.com/MentorHIT)** - An AI-powered acade
 - 🤖 Provides intelligent student-job matching
 - 📚 Offers vector-based course recommendations
 - ⚡ Delivers fast, interactive academic support
-- 🔒 Implements secure AWS architecture with advanced data handling
+- 🔒 Implements AWS architecture
 
 ## 🛠️ Tech Stack
 

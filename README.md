@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  ![Computer Science Student](https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge)
-  ![Graduating 2025](https://img.shields.io/badge/Graduating-2025-green?style=for-the-badge)
-  ![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-orange?style=for-the-badge)
+![Computer Science Graduate](https://img.shields.io/badge/Computer%20Science-Graduate-blue?style=for-the-badge)
+![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-orange?style=for-the-badge)
+![Backend Developer](https://img.shields.io/badge/Backend-Developer-purple?style=for-the-badge)
   
   **Frontend/Backend Developer | Computer Science Graduate @ HIT | 🏆 Hackathon Winner**
   

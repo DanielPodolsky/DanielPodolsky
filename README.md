@@ -17,9 +17,10 @@
 ## 🚀 About Me
 
 Computer Science graduate (B.Sc., GPA: 89) developer who delivered an innovative AI-powered platform that won 1st place in a competitive hackathon.
-Skilled in building web applications with React.js, Node.js, and modern development practices.
 
-Seeking a Frontend/Backend Developer role to leverage technical skills and teamwork abilities to drive innovative web solutions!
+During my studies, I learned to build full-stack web applications using React.js, Node.js, JavaScript, Express, Git, and databases including MongoDB and MySQL.
+
+Seeking a Full Stack Developer role to apply my skills and teamwork abilities to challenging projects.
 
 - 🎓 **B.Sc Computer Science** @ Holon Institute of Technology (GPA: 89)
 - 💻 **Frontend Developer** with React.js, JavaScript, and modern web technologies

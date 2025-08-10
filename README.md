@@ -8,7 +8,7 @@
 ![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-orange?style=for-the-badge)
 ![Backend Developer](https://img.shields.io/badge/Backend-Developer-purple?style=for-the-badge)
   
-  **Frontend/Backend Developer | Computer Science Graduate @ HIT | 🏆 Hackathon Winner**
+  **Full Stack Developer | Computer Science Graduate @ HIT | 🏆 Hackathon Winner**
   
   *Building the bridge between academia and industry through innovative technology*
 
@@ -18,7 +18,7 @@
 
 Computer Science graduate (B.Sc., GPA: 89) developer who delivered an innovative AI-powered platform that won 1st place in a competitive hackathon.
 
-During my studies, I learned to build full-stack web applications using React.js, Node.js, JavaScript, Express, Git, and databases including MongoDB and MySQL.
+During my studies, I learned to build Full Stack web applications using React.js, Node.js, JavaScript, Express, Git, and databases including MongoDB and MySQL.
 
 Seeking a Full Stack Developer role to apply my skills and teamwork abilities to challenging projects.
 

@@ -23,7 +23,6 @@ During my studies, I learned to build Full Stack web applications using React.js
 Seeking a Full Stack Developer role to apply my skills and teamwork abilities to challenging projects.
 
 - 🎓 **B.Sc Computer Science** @ Holon Institute of Technology (GPA: 89)
-- 💻 **Frontend Developer** with React.js, JavaScript, and modern web technologies
 - 🏆 **1st Place Winner** - HIT's Hackathon 2025
 
 Co-developed **[MentorHIT](https://github.com/MentorHIT)** - An AI-powered academic advisor platform that:

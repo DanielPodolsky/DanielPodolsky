@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Computer Science graduate (B.Sc., GPA: 89) developer who delivered an innovative AI-powered platform that won 1st place in a competitive hackathon.
+Computer Science graduate developer who delivered an innovative AI-powered platform that won 1st place in a competitive hackathon.
 
 During my studies, I learned to build Full Stack web applications using React.js, Node.js, JavaScript, Express, Git, and databases including MongoDB and MySQL.
 

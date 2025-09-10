@@ -36,7 +36,7 @@ Co-developed **[MentorHIT](https://github.com/MentorHIT)** - A revolutionary AI-
 
 🚀 **Advanced Technical Implementation:**
 - **Serverless Architecture** with AWS Lambda functions
-- **Generative AI Integration** using Amazon Bedrock (Claude models)
+- **Generative AI Integration** using Amazon Bedrock
 - **Vector Search & Embeddings** with Amazon Titan
 - **Real-time Job Market Integration** for career guidance
 - **Data Management** with DynamoDB

@@ -70,7 +70,7 @@ Co-developed **[MentorHIT](https://github.com/MentorHIT)** - A revolutionary AI-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
 
-### **AI & Machine Learning**
+### **AI**
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-4285F4?style=flat-square&logo=tensorflow&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6B35?style=flat-square&logo=elasticsearch&logoColor=white)
@@ -114,7 +114,6 @@ Co-developed **[MentorHIT](https://github.com/MentorHIT)** - A revolutionary AI-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-podolsky-341901242)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lambodol76@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 </div>
 

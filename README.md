@@ -23,8 +23,6 @@ During my studies at HIT, I learned how to use modern development stacks and adv
 
 - 🎓 **B.Sc Computer Science** @ Holon Institute of Technology (GPA: 89)
 - 💡 **Specialization**: Full Stack Development + Generative AI Solutions
-- 🌟 **Mission**: Transforming industries through intelligent software solutions
-
 ---
 
 ## 🏆 Achievements

@@ -48,7 +48,7 @@ Co-developed **[MentorHIT](https://github.com/MentorHIT)** - A revolutionary AI-
 
 ## 🛠️ Advanced Tech Stack
 
-### **Cloud & AI Technologies**
+### **AWS**
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)

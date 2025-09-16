@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=31A9DF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Daniel+Podolsky.;Full+Stack+Developer;Generative+AI+Specialist)](https://git.io/typing-svg)
 
-**Computer Science Graduate | Full Stack Developer specializing in Generative AI Solutions**
+**B.Sc. Computer Science | Full Stack Developer specializing in Generative AI Solutions**
 
 </div>
 

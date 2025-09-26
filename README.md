@@ -33,8 +33,8 @@ Co-developed **MentorHIT** - An AI-powered academic advisor platform addressing 
 ### **Full Stack Development** 
 [![Skills](https://skillicons.dev/icons?i=ts,react,nodejs,mongodb,express&theme=dark)](https://skillicons.dev)
 
-### **Languages & Tools**
-[![Skills](https://skillicons.dev/icons?i=js,python,git,github&theme=dark)](https://skillicons.dev)
+### **Tools**
+[![Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
 
 
 ---

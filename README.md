@@ -41,7 +41,7 @@ Co-developed **MentorHIT** - An AI-powered academic advisor platform addressing 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanielPodolsky&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanielPodolsky&theme=dark)](https://git.io/streak-stats)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-podolsky-341901242)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lambodol76@gmail.com)

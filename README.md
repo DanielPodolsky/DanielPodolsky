@@ -1,49 +1,71 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=31A9DF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Daniel+Podolsky.;Full+Stack+Developer;Generative+AI+Specialist)](https://git.io/typing-svg)
-
-**B.Sc. Computer Science | Full Stack Developer specializing in Generative AI Solutions**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Daniel+Podolsky;Full+Stack+Developer;Building+things+people+actually+use)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Achievements
+## About me
 
-### AWS Public Sector Innovation Hackathon - 2nd Place National Winner
-
-Co-developed **MentorHIT** - An AI-powered academic advisor platform addressing Israel's junior developer shortage by intelligently matching students with career opportunities and providing personalized guidance at scale.
-
-**Business Impact:**
-- Addresses critical talent pipeline challenges in Israel's tech sector
-- Delivers instant, context-aware academic and career recommendations
-- Bridges the gap between academic potential and industry demands
-- Provides scalable mentorship solution for educational institutions
-
-**Technical Foundation:** Serverless architecture on AWS with Generative AI integration, vector search capabilities, and real-time job market data processing.
+```javascript
+const daniel = {
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  technologies: {
+    frontEnd: ["React", "Next.js"],
+    backEnd: ["Node.js", "Express"],
+    databases: ["MongoDB"],
+    cloud: ["AWS Lambda", "DynamoDB", "S3", "Bedrock"],
+    automation: ["n8n", "GitHub Actions"],
+    ai: ["Claude", "OpenAI", "RAG", "Prompt Engineering"]
+  },
+  architecture: ["Serverless", "Microservices", "REST APIs"],
+  achievements: {
+    hackathons: ["AWS Hackathon - 2nd Place (National)", "HIT Hackathon - 1st Place"],
+    production: "Contributing to apps serving 1000+ users"
+  },
+  funFact: "When I'm not coding, I'm probably gaming"
+};
+```
 
 ---
 
-## Core Technologies
+## Tech Stack
 
+<div align="center">
 
-### **Cloud & AI**
-[![Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,javascript,aws,git,github&perline=5)](https://skillicons.dev)
 
-### **Full Stack Development** 
-[![Skills](https://skillicons.dev/icons?i=ts,react,nodejs,mongodb,express&theme=dark)](https://skillicons.dev)
+</div>
 
-### **Tools**
-[![Skills](https://skillicons.dev/icons?i=git,github&theme=dark)](https://skillicons.dev)
+---
 
+## Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielPodolsky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPodolsky&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPodolsky&theme=tokyonight&hide_border=true" alt="Daniel's GitHub Streak"/>
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-podolsky-341901242)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lambodol76@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanielPodolsky&theme=dark)](https://git.io/streak-stats)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-podolsky-341901242)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lambodol76@gmail.com)
+  <img src="https://komarev.com/ghpvc/?username=DanielPodolsky&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
 
 </div>
